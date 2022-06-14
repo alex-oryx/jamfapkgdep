@@ -7,7 +7,7 @@
 		url for x86: https://desktop.figma.com/mac/Figma.zip
 	</string>
 	<key>Identifier</key>
-	<string>com.github.dataJAR-recipes.download.Figma</string>
+	<string>com.github.jamfapkgdep.download.Figma</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
