@@ -11,11 +11,11 @@
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%-update-smart</string>
+		<string>%NAME%-update-smart-intel</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>Figma-SmartGroupTemplate.xml</string>
 		<key>NAME</key>
-		<string>Figma</string>
+		<string>Figma-intel</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
